@@ -1,0 +1,32 @@
+{
+  "name": "php-intl",
+  "version": "0.0.1",
+  "description": "Installs php-intl extension",
+  "long_description": "Installs php-intl extension",
+  "maintainer": "mychiara",
+  "maintainer_email": "mychiara+cookbooks@gmail.com",
+  "license": "Apache 2.0",
+  "platforms": {
+    "debian": ">= 0.0.0",
+    "ubuntu": ">= 0.0.0"
+  },
+  "dependencies": {
+  },
+  "recommendations": {
+  },
+  "suggestions": {
+  },
+  "conflicting": {
+  },
+  "providing": {
+  },
+  "replacing": {
+  },
+  "attributes": {
+  },
+  "groupings": {
+  },
+  "recipes": {
+    "php-intl": "Main recipe"
+  }
+}
