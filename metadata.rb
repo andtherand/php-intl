@@ -1,4 +1,4 @@
-name		  	  "php-intl"
+﻿name		  	  "php-intl"
 maintainer        "mychiara"
 maintainer_email  "mychiara+cookbooks@gmail.com"
 license           "Apache 2.0"
